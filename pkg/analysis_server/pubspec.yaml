@@ -1,0 +1,47 @@
+name: analysis_server
+# This package is not intended for consumption on pub.dev. DO NOT publish.
+publish_to: none
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dependencies:
+  _fe_analyzer_shared:
+    path: ../_fe_analyzer_shared
+  analyzer:
+    path: ../analyzer
+  analyzer_plugin:
+    path: ../analyzer_plugin
+  args: any
+  collection: any
+  convert: any
+  crypto: any
+  dart_style: any
+  http: any
+  html: any
+  linter: any
+  meta:
+    path: ../meta
+  stream_channel: any
+  telemetry:
+    path: ../telemetry
+  test: any
+  path: any
+  watcher: any
+  yaml: any
+
+dev_dependencies:
+  analyzer_utilities:
+    path: ../analyzer_utilities
+  logging: any
+  matcher: any
+  pedantic: ^1.9.0
+  test_reflective_loader: any
+
+dependency_overrides:
+  _fe_analyzer_shared:
+    path: ../_fe_analyzer_shared
+  analyzer:
+    path: ../analyzer
+  meta:
+    path: ../meta

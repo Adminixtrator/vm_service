@@ -1,0 +1,13 @@
+/Makefile
+/*.Makefile
+/*.sln
+/*.target.mk
+/*.vcproj
+/*.vcxproj
+/*.vcxproj.user
+/*.vcxproj.filters
+/*.xcodeproj
+.dart_tool
+.idea/
+.packages
+analysis_server/language_model/
