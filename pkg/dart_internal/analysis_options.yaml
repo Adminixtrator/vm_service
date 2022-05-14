@@ -1,5 +1,0 @@
-analyzer:
-  errors:
-    import_internal_library: ignore
-  language:
-    strict-casts: true

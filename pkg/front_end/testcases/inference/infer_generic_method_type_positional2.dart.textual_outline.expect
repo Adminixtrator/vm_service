@@ -1,8 +1,0 @@
-// @dart = 2.9
-library test;
-
-class C {
-  T m<T>(int a, [String b, T c]) => null;
-}
-
-main() {}

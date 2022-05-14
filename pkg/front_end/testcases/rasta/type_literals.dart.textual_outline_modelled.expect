@@ -1,8 +1,0 @@
-// @dart = 2.9
-class C<T> {
-  test() {}
-}
-
-main() {}
-typedef void Func();
-use(x) {}

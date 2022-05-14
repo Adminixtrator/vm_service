@@ -1,3 +1,0 @@
-// @dart = 2.9
-typedef void T(C<C>);
-T main() => null;

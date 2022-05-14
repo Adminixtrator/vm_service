@@ -1,9 +1,0 @@
-// @dart = 2.9
-library test;
-
-import 'dart:async';
-
-Future<int> futureInt = null;
-main() {}
-var f = () => futureInt;
-var g = () async => futureInt;

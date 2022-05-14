@@ -1,4 +1,0 @@
-// @dart = 2.9
-Foo x;
-main() {}
-typedef Foo<T> = T Function<T>(T a);

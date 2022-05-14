@@ -1,8 +1,0 @@
-// @dart = 2.9
-class Foo extends NoUnnamedConstuctor with MixMeIn {}
-
-class MixMeIn {}
-
-class NoUnnamedConstuctor {
-  NoUnnamedConstuctor._();
-}

@@ -1,4 +1,0 @@
-// @dart = 2.9
-get x => 42;
-main() {}
-set x(val) {}

@@ -1,7 +1,0 @@
-name: dartfuzz
-
-environment:
-  sdk: '>=2.2.2 <3.0.0'
-
-dev_dependencies:
-  pedantic: 'any'

@@ -1,9 +1,0 @@
-// @dart = 2.9
-library test;
-
-class C {
-  int x;
-}
-
-main() {}
-void f(C c) {}

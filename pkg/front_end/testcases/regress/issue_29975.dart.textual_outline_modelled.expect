@@ -1,4 +1,0 @@
-// @dart = 2.9
-typedef void F();
-typedef void F();
-void main() {}

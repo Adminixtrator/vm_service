@@ -1,7 +1,0 @@
-// @dart = 2.9
-class C {
-  C(this.x);
-  final x;
-}
-
-main() {}

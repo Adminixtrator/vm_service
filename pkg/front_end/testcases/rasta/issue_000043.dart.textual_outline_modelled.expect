@@ -1,4 +1,0 @@
-// @dart = 2.9
-class C {
-  get x => '$C'.hashCode;
-}
